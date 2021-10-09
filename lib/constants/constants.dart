@@ -1,5 +1,5 @@
 class Constants {
-  // login and signup
+  // login_signup and signup
   static const hello = "Hello,";
   static const signIn = "Sign In";
   static const signUp = "Sign Up";
@@ -12,7 +12,7 @@ class Constants {
   static const welcome = "Welcome ";
   static const back = "back,";
   static const signInToContinue = "Sign in to continue";
-  static const loginInfo = "Enter your information below or\nlogin with a social account,";
+  static const loginInfo = "Enter your information below or\nlogin_signup with a social account,";
 
 
 }
